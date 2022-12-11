@@ -1,0 +1,819 @@
+{
+  "courses": [
+    {
+      "id": "5e71ac5d8b427122575e1d92",
+      "code": "101",
+      "title": "파이썬 기초 수업 모음 ZIP",
+      "difficulty": 1,
+      "slug": "intro-to-python-programming",
+      "summary": "파이썬은 프로그래밍의 기초중의 기초! 코딩을 처음 배우거나, 파이썬을 배우려는 자들을 위한 강좌! 웹사이트 개발자가 직접 파이썬을 학습할 때 들어본 강의들만 추천하는 믿음직한 강의들만 추천드립니다:)",
+      "language": "PYTHON",
+      "photoUrl": "python",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e71b88447e1487937461f50",
+            "slug": "getting-started-with-python",
+            "title": "파이썬 기초 강좌(1) - 외부사이트: 코딩도장",
+            "summary": "무료로 코딩도장 사이트에서 단계별로 파이썬을 학습할 수 있습니다. 링크: dojang.io/course/view.php?id=7"
+            
+          }
+        },
+        {
+          "topic": {
+            "id": "5e71b98d855e806094b57ad0",
+            "slug": "core-concept-of-python-programming",
+            "title": "파이썬 기초 강좌(2) - 외부사이트: 생활코딩",
+            "summary": "무료로 생활코딩 사이트에서 단계별로 파이썬을 학습 할 수 있습니다. 유튜브에서 강의도 있어서 사용자의 학습을 돕습니다! 링크: https://opentutorials.org/course/4769"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e71b9ce8b427122577e26f1",
+            "slug": "python-programming-and-data",
+            "title": "파이썬 기초 강좌(3) - 외부사이트: 프로그래머스 스쿨",
+            "summary": "무료로 프로그래머스스쿨 사이트에서 단계별로 파이썬을 학습 할 수 있습니다! 링크: https://school.programmers.co.kr/learn/courses/2/2-%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f44779ba1fe743841ae7939",
+      "code": "111",
+      "title": "[한림대학교] 파이썬DT 데이터역량 집중교육",
+      "difficulty": 2,
+      "slug": "python-intermediate",
+      "summary": "파이썬을 파고들어, 머신러닝 모델을 이해하고 연속형과 범주형데이터를 위한 전처리를 학습할 수 있습니다!",
+      "language": "PYTHON",
+      "photoUrl": "python",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5f4478daa1fe743841b42acf",
+            "slug": "python-module-and-package",
+            "title": "대상, 모집기간, 교육일시, 교육방법",
+            "summary": "대상: <파이썬 DT 방학집중교육> 수강하였거나 그에 준하는 지식이 있는 한림대학교 재학생 \n+ 모집기간: 2022.01.13(목) ~ 2022. 02. 09(수) \n 교육일시: 2022.02.14(월) ~ 2022.02.18(금) 10:00~18:00 \n 교육방법: zoom"
+          }
+        },
+        {
+          "topic": {
+            "id": "5f4872fe372038687eb80444",
+            "slug": "python-environment-for-mac",
+            "title": "커리큘럼과 신청방법",
+            "summary": "1일차 : 머신러닝 리뷰 \n 2일차: 데이터 전처리를 위한 특성 공학 및 모델 튜닝 \n 3일차: 머신러닝 모델 이해(회귀)와 연속형데이터를 위한 전처리 \n 4일차: 머신러닝 모델 이해(분류) 범주형데이터를 위한 전처리 \n 5일차: 실전 프로젝트  신청방법: 링크참조(https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1?action=read&nttId=16318035&pageIndex=1&searchType=0&searchWrd=%ED%8C%8C%EC%9D%B4%EC%8D%AC)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e345223b3aa703b8a9a4f38",
+      "code": "121",
+      "title": "[춘천시 평생학습관]컴퓨터 기초 수업",
+      "difficulty": 1,
+      "slug": "object-oriented-programming",
+      "summary": "컴퓨터 기초 수업(윈도우, 인터넷, 한글 문서작성 기초)",
+      "language": "한글",
+      "photoUrl": "oop",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb41",
+            "slug": "what-is-oop",
+            "title": "어떤 강의인가?",
+            "summary": "컴퓨터에 기본사용법을 익히고 인터넷 사용법을 습득하여 일상생활에 유용한 정보를 검색 수집하여 활용하는 방법과 여러 디지털 자료를 다룰 수 있도록 기초 지식을 학습함."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb42",
+            "slug": "four-pillars-of-oop",
+            "title": "강의 일자/강의 준비물/안내 링크",
+            "summary": "매주 화목 09:30~ 12:00 주 2회/ 준비물: 스마트정보화(윈도우10,인터넷,한글) / 신청링크(https://clc.chuncheon.go.kr/site/edu/edu_class_view.do) "
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb43",
+            "slug": "solid-principles-of-oop",
+            "title": "강의 내용",
+            "summary": "윈도우 기초, 인터넷 기초( 이메일, 교통정보, 무료프로그램, 압축파일, 번역기 사용 등), 한글(한글 프로그램을 사용하여 기본문서,차트,표,다단문서 등을 작성함)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e345223b3aa703b8a9a4f37",
+      "code": "122",
+      "title": "[춘천시 평생학습관] 포토샵 기초 수업",
+      "difficulty": 1,
+      "slug": "photoshop",
+      "summary": "알아두면 정말 유용한 포토샵! 다양한 예제를 풀어보면 나도 어느새 실력자!",
+      "language": "PHOTOSHOP",
+      "photoUrl": "oop",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb3d",
+            "slug": "what-is-a-good-photoshop",
+            "title": "어떤 수업인가?",
+            "summary": "포토샵의 기본 도구부터 디자인 실무에 이루기까지 다양한 예제를 이용한 학습을 합니다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb3e",
+            "slug": "recursion",
+            "title": "강의 일자/ 강의 준비물/ 안내 링크",
+            "summary": "강의 일자: 수,금(09:30~12:00) 주 2회 // 강의준비물: 알찬 예제로 배우는 포토샵 CS5 // 안내링크(https://clc.chuncheon.go.kr/site/edu/edu_class_view.do) "
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e345223b3aa703b8a9a4f39",
+      "code": "131",
+      "title": "[춘천시 평생학습관] 실생활 컴퓨터활용(한글,엑셀)",
+      "difficulty": 1,
+      "slug": "excel-basic",
+      "summary": "실생활에서 정말 많이 쓰는 한글과 엑셀 프로그램! 쉽게 배워봐요~!",
+      "language": "EXCEL",
+      "photoUrl": "automation",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb45",
+            "slug": "what-is-excel",
+            "title": "어떤 수업인가?",
+            "summary": "한글 프로그램의 여러 기능을 학습하여 가독성과 명시성이 뛰어난 문서 작성 능력을 배양한다. 엑셀의 기본 필수 기능과 함수를 학습하여 실생활에 필요한 사무 능력을 배양한다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb46",
+            "slug": "excel-info",
+            "title": "강의 일자/ 강의 준비물/ 안내 링크",
+            "summary": "강의 일자: 월(09:30~12:00) // 강의 준비물: 단계학습 한글 2020 기본&실무프젝 , 단계학습 엑셀 2016 기본&실무프젝 // 안내 링크(https://clc.chuncheon.go.kr/site/edu/edu_class_view.do)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e345223b3aa703b8a9a4f32",
+      "code": "311",
+      "title": "[춘천시 평생학습관] 동영상 제작하기(파워디렉터)",
+      "difficulty": 1,
+      "slug": "video",
+      "summary": "나만의 동영상을 제작하고 동영상을 편집하는 기술을 파워디렉터 프로그램을 활용하여 배워봐요!",
+      "language": "POWERDIRECTOR",
+      "photoUrl": "intro-to-computer",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb38",
+            "slug": "what-is-video",
+            "title": "어떤 수업인가?",
+            "summary": "파워디렉터 기본기능부터 고급기능을 익힌다. 파워디렉터 프로그램으로 다양한 동영상을 제작한다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb39",
+            "slug": "video-info",
+            "title": "강의 일자/ 강의 준비물/ 안내 링크",
+            "summary": "강의 일자: 화,목(13:30~16:00) // 강의 준비물: 쉽고 빠른 동영상 편집 파워디렉터 // 안내 링크(https://clc.chuncheon.go.kr/site/edu/edu_class_view.do)"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb3a",
+            "slug": "video-time",
+            "title": "자세한 강의 내용",
+            "summary": "파워디렉터의 화면구성과 기능, 타이틀과 자막, 오버레이 영상만들기, 멀티캠 디자이너와 카메라 액션센터로 역동적인 영상 만들기, 다양한 동영상을 직접 제작하기"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e6732574b0b59235a15c86b",
+      "code": "321",
+      "title": "[한림대학교] Adobe Premiere Pro를 이용한 유튜브 크리에이터 양성과정",
+      "difficulty": 1,
+      "slug": "youtuber",
+      "summary": "유튜브 대세 시대! 어도비 프리미어 프로를 활용해 유튜브 크리에이터가 되어보세요! ACP자격증 취득 준비까지 가능합니다!",
+      "language": "Adobe",
+      "photoUrl": "web-publishing",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e6731d2e1c354224fb88efb",
+            "slug": "adobe-info",
+            "title": "어떤 수업인가?",
+            "summary": "프리미어프로 기초부터 나만의 유튜브 채널 개설 및 영상 편집 후 업로드까지 가능한 3일간의 수업진행과정입니다!"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e6731eafa82385b57335783",
+            "slug": "adobe-who",
+            "title": "추천 수강 대상을 알려드립니다!",
+            "summary": "도대체 어떤 프로그램을 써야할지 모르겠고, 예쁘게 좀 꾸미고 싶은데 쉽고 효율적인 편집방법을 알고 싶은 분! 그리고 편집해도 이걸 어떻게 돌리는지, 구독자는 어떻게 만드는지 모르겠고 어느 세월에 언제 다 배우지 싶은 분들께 추천드립니다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e67320c4b0b59235a14e8fd",
+            "slug": "adobe-day",
+            "title": "강의 일자/ 강의 장소/ 안내 링크",
+            "summary": "강의일자: 2023.01.16(월) ~ 2023.01.18(수) // 강의장소: 한림대학교 산학협력관 // 안내 링크(https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1?action=read&nttId=16321458&pageIndex=2)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f69873536e82326c31293c7",
+      "code": "331",
+      "title": "[강원대학교] 언리얼엔진 기반 메타버스 개발자 교육",
+      "difficulty": 2,
+      "slug": "metabus",
+      "summary": "언리언 엔진을 기반으로 메타 휴먼, 메타버스 플랫폼 구축을 실습하는 교육입니다!",
+      "language": "Unreal Engine",
+      "photoUrl": "fourth-revolution",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5f6987ff36e82326c315f90f",
+            "slug": "metabus-info",
+            "title": "어떤 교육 과정인가?",
+            "summary": "에픽게임즈 사에서 개발한 언리얼 엔진을 활용한 실감형 콘텐츠 개발자를 양성합니다. 수료생들께는 취업연계 기회도 제공합니다!"
+          }
+        },
+        {
+          "topic": {
+            "id": "5f6da787dab0f329c5c63eb1",
+            "slug": "metabus-benefit",
+            "title": "교육생 혜택",
+            "summary": "교육비가 전액 무료이고 식대 및 교통비를 지원해드립니다. 강원 및 서울 경기 메타버스 관련 회사에 파견 현장 실습 멘토링을 진행하며 현장실습을 160시간 정도 할 수 있습니다! 안내링크(https://wwwn.kangwon.ac.kr/www/selectBbsNttView.do?bbsNo=81&nttNo=157843&&pageUnit=10&searchCtgry=%EC%B6%98%EC%B2%9C&key=277&pageIndex=4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e673408e1c354224fc0c8eb",
+      "code": "336",
+      "title": "[춘천시청] 업무에 바로 쓰는 파워포인트",
+      "difficulty": 2,
+      "slug": "ppt",
+      "summary": "Microsoft PowerPoint 프로그램의 기초부터 실무에 활용하기 좋은 심화기능들을 배워보고, 완성도 있는 슬라이드 쇼를 제작 및 편집, 공유할 수 있다.",
+      "language": "POWERPOINT",
+      "photoUrl": "intro-to-computer",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e673393e1c354224fbec491",
+            "slug": "ppt-day",
+            "title": "강의 일자/ 강의 장소/ 안내 링크",
+            "summary": "강의 일자: 2022.12.05 ~ 2022.12.23 월, 수, 금 19:00~21:00 (2시간) // 강의 장소: 비대면 솔루션(온라인 강의) // 안내 링크(https://yeyak.chuncheon.go.kr/prog/infedcProg/reserve/sub01_02/view.do;jsessionid=9AFFE25A13EC30730E3100F3EC45543C?progrmId=INED_0000000420)"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e6733a5fa82385b573954da",
+            "slug": "ppt-plan",
+            "title": "교육 내용 안내",
+            "summary": "인터페이스 탐색하기, 슬라이드 쇼 효과 활용하기, 단락 및 글머리 기호 다루기, 워드아트와 배경서식 이용하기, 표 활용하기 등등"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f35fac7bae77a76bba6d44a",
+      "code": "501",
+      "title": "[춘천시 평생학습관] 코딩기초와 AR&VR",
+      "difficulty": 1,
+      "slug": "arvr",
+      "summary": "아이들도 할 수 있는 코딩을 통해 컴퓨팅 사고력을 기르고 코딩을 이용한 AR, VR을 체험해보는 수업입니다!",
+      "language": "ENTRY",
+      "photoUrl": "oop",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5f35fd346008aa33709c1d6c",
+            "slug": "arvr-day",
+            "title": "강의 일자/ 강의 장소/ 안내 링크",
+            "summary": "강의 일자: 2022.09.28 10:00 ~ 2022.10.12 18:00 수, 목 19:00-21:00 // 강의 장소: 온라인 // 안내 링크(https://clc.chuncheon.go.kr/site/edu/edu_class_view.do)"
+          }
+        },
+        {
+          "topic": {
+            "id": "5f361b01bae77a76bbf4b184",
+            "slug": "arvr-who",
+            "title": "강의 학습 대상 / 수강생 준비 사항",
+            "summary": "학습 대상: 초등학교 4학년 부터 성인 누구나 / 준비사항: 노트북이나 컴퓨터 중 하나 , 스마트폰 필수"
+          }
+        },
+        {
+          "topic": {
+            "id": "5f361e2abae77a76bbfd815b",
+            "slug": "arvr-info",
+            "title": "강의 내용을 알아볼까요?",
+            "summary": "엔트리를 설치하고 소리블록과 좌표를 통해 움직이며 동물농장을 만들어보아요! 또한 여러개의 게임들을 만틀며 ar/vr을 체험해 보아요!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e345223b3aa703b8a9a4f36",
+      "code": "502",
+      "title": "[춘천직업전문학교] UI/UX 모바일 웹디자인 양성과정",
+      "difficulty": 1,
+      "slug": "web-publishing",
+      "summary": "스마트폰 등을 활용하는데 필요한 사이트 구축에 있어서 사용자 요구에 맞는 다양한 형태의 시각디자인과 매체 특성에 따른 직관적이고 유연한 사용자 중심의 UX/UI 화면 설계를 디지털 그래픽 기술로 디자인할 수 있는 웹디자인 전문인력 양성과정입니다.",
+      "language": "HTML_CSS_JAVASCRIPT_JQUERY",
+      "photoUrl": "web-publishing",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb32",
+            "slug": "web-design",
+            "title": "웹(그래픽)디자인",
+            "summary": "포토샵, 일러스트레이터로 웹을 디자인 해보세요! 나도 웹 디자이너가 될 수 있습니다:)"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb33",
+            "slug": "web-publisher",
+            "title": "웹 퍼블러셔(프론트엔드) 과정",
+            "summary": "HTML5 + CSS3 + JavaScript + JQuery(컨텐츠기획, UI설계, UI구현, UI테스트,UI/UX가이드를 제작)하며 나도 프론트엔드 개발자가 될 수 있습니다:)"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb35",
+            "slug": "web-info",
+            "title": "강의 안내",
+            "summary": "강의 기간: 2022.12.22~2023.05.23 월~금 09:00 ~17:00 // 훈련장려금: 매월 70만원 지원// 수강료 및 교재비 무료// 안내 링크(http://www.joball.kr/course/cri_view.do?idx=594)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e673b9a4b0b59235a36f0bd",
+      "code": "511",
+      "title": "[춘천직업전문학교] 컴퓨터활용능력 2급 자격증 취득 과정",
+      "difficulty": 1,
+      "slug": "computer-license",
+      "summary": "이론과 실기과정을 통해 컴퓨터활용능력2급 자격증을 취득할 수 있다.",
+      "language": "EXCEL",
+      "photoUrl": "oop",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e673b55fa82385b5756be4b",
+            "slug": "computer-license-info",
+            "title": "어떤 수업 과정인가요?",
+            "summary": "컴퓨터 활용 능력 이론과 실기 내용을 학습해 자격증 취득을 목적으로 한다. 해당 교육으로 사무행정 처리에 수반되는 사무자동화 프로그램 활용, 사무자동화 네트워크 관리지원 및 전자정보 처리등을 수행이 가능하다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e673b6efa82385b57575760",
+            "slug": "computer-license-day",
+            "title": "강의 안내",
+            "summary": "강의 기간: 2022.12.12 ~ 2022.02.03 월~금 18:00 ~ 21:30 // 훈련 장려금: 매월 최대 61만 6천원 지원 // 안내 링크(http://www.joball.kr/course/cri_view.do?idx=586)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f3cd65b92f99f1bae2b7238",
+      "code": "512",
+      "title": "[생활코딩] jQuery와 함께 웹 프론트엔드 개발 배우기",
+      "difficulty": 2,
+      "slug": "jquery",
+      "summary": "제이쿼리의 기초부터 응용까지 전부 무료! 같이 한번 제이쿼리의 매력에 빠져 볼까요??",
+      "language": "JAVASCRIPT",
+      "photoUrl": "jquery",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb34",
+            "slug": "getting-started-with-jquery",
+            "title": "어떤 강의 인가??",
+            "summary": "제이쿼리는 자바스크립트의 생산성을 향상 시켜주는 자바스크립트 라이브러리입니다. 제이쿼리를 이용하면 순수한 자바스크립트로 코딩하는 것보다 10배 이상 생산성을 높일 수 있습니다. 최근에는 모바일 라이브러리를 출시해서 모바일용 웹애플리케이션을 만드는데에도 많은 도움을 주고 있답니다! "
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb37",
+            "slug": "jquery-info",
+            "title": "수업 대상/ 선행 강좌/ 수업 시간",
+            "summary": "수업 대상: 웹프로그래머, 디자이너, 초보자 // 선행 강좌: HTML, CSS, JAVASCRIPT // 수업시간: 무료, 8개 수업 (1시간 51분) // 안내링크(https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-jquery-%EA%B0%95%EC%A2%8C#reviews)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f598b6e3ea115401463e4cb",
+      "code": "516",
+      "title": "[인프런] 나의 첫 Django 앱 개발",
+      "difficulty": 2,
+      "slug": "django-app",
+      "summary": "장고를 한번도 접해보지 못한 초보자들을 위한 장고 초급 강좌입니다. 무료로 제공되는 강의로 장고와 친해져 볼까요??",
+      "language": "PYTHON",
+      "photoUrl": "django",
+      "newReleased": true,
+      "topics": [
+        {
+          "topic": {
+            "id": "5f598c663c56b861a75cdcdd",
+            "slug": "getting-started-with-django",
+            "title": "Django 란 무엇인가요??",
+            "summary": "장고란, 파이썬 기반의 웹 프레임워크로써 13년 넘게 파이썬 유저들에게 사랑받고 있답니다. // 단점: 파이썬이 가지는 단점을 그대로 가져오게 된다. 아직 한국에서 많이 사용되지 않기 때문에 한글로 된 자료가 찾기 힘들다. "
+          }
+        },
+        {
+          "topic": {
+            "id": "5f59911f85fa717f8c38ecdb",
+            "slug": "django-benefit",
+            "title": "Django 의 장 단점은?",
+            "summary": "장점: 반복적으로 구현해야 하는 부분은 이미 만들어져 있고, 웹을 만들어야 할때 프론트와 관련된 프레임워크(react, vue)와 같은 것을 사용하지 않고도 만들 수 있다!"
+          }
+        },
+        {
+          "topic": {
+            "id": "6078f3dd68a063759459007a",
+            "slug": "django-user-system",
+            "title": "수강 대상 추천 / 강좌 특징 / 선행 추천 강좌 ",
+            "summary": "추천하는 수강 대상: 파이썬과 장고를 공부하고 자신만의 웹 서비스를 만들고 싶은 분! // 강좌 특징: 영상이 아니라 문서로 되어있습니다! // 선행 추천 강좌: 파이썬 기본, 실습을 통해 알아보는 장고 기본"
+          }
+        },
+        {
+          "topic": {
+            "id": "60f634203bda4b6064f238ad",
+            "slug": "django-details",
+            "title": "무엇을 배우는 지 강의 내용을 알아볼까요?",
+            "summary": "투표 앱 만들기, 데이터베이스, admin사이트 만들기 등등의 다양한 예제를 통해 장고를 학습합니다!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e673b1c4b0b59235a34af87",
+      "code": "521",
+      "title": "[인프런] 처음 만난 리엑트(REACT)",
+      "difficulty": 1,
+      "slug": "react-frontend-development",
+      "summary": "단순한 웹 문서가 아니라 완성도 높은 웹 화면을 개발해보고 싶나요? React를 사용하면 복잡한 웹 화면을 효율적으로 개발할 수 있습니다. 영향력이 점점 커지고 있는 React 프론트엔드 개발에 도전해 보세요!",
+      "language": "JAVASCRIPT",
+      "photoUrl": "react",
+      "newReleased": true,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e673842e1c354224fd04c56",
+            "slug": "getting-started-with-react",
+            "title": "React란 무엇이고, 어떤 것을 배우게 되나요??",
+            "summary": "리엑트란, 메타에서 만든 오픈소스 자바스크립트 UI 라이브러리 입니다. 현재 웹 애플리케이션 개발에 가장 많이 사용되고 있으며 빠른 업데이트와 렌더링 속도, 컴포넌트 기반의 구조 등 많은 장점을 가지고 있어요! 이 강의로 자바스크립트, CSS 기초 문법과 미니 프로젝트를 통해 웹애플리케이션을 개발 할 수 있어요!"
+          }
+        },
+        {
+          "topic": {
+            "id": "5e673a87e1c354224fd9dfa7",
+            "slug": "react-topic",
+            "title": "강의 후기/ 강좌 특징 ",
+            "summary": "강의 후기: JS 기초 문법에 대해 이해할 수 있고, 자주 사용되는 CSS를 이해할 수 있어요! 또한 실전 프로젝트의 경험을 쌓을 수 있습니다 :) // 강좌 특징: 총 56개 수업, 수강 기간은 무제한으로 무료예요! // 안내링크(https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e6737c14b0b59235a28c35a",
+      "code": "524",
+      "title": "[인프런] Node.js로 데이터베이스 다루고 웹 애플리케이션 만들기",
+      "difficulty": 3,
+      "slug": "nodejs-webapp",
+      "summary": "서버측 자바스크립트 언어인 Nodejs와 데이터베이스의 관계를 소개하고 Nodejs와 데이터베이스를 통해 웹어플리케이션을 제작하는 방법을 알려줍니다!",
+      "language": "JAVASCRIPT",
+      "photoUrl": "node-js",
+      "newReleased": true,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e6736a2e1c354224fcb477f",
+            "slug": "intro-to-nodejs",
+            "title": " 강좌 소개",
+            "summary": "서버 측 자바스크립트 기술, Node.js와 Database의 관계를 소개하고 사용법을 학습해 간단한 웹 어플리케이션을 만들어보는 nodejs 강좌입니다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e6736d64b0b59235a26735f",
+            "slug": "nodejs-info",
+            "title": "수강 추천 대상 / 강좌 특징",
+            "summary": "이 강좌가 도움되는 분들: 자바스크립트에 대한 기본 개념지식이 잡혀 있는 분, 자바스크립트 위주의 웹 개발을 해보고 싶은 분, Node.js를 공부하고 싶은 분 // 강좌 특징: 자바스크립트, node.js, MySQL, OrientDB를 다룹니다. // 안내 링크(https://www.inflearn.com/course/node-js-database) "
+          }
+        },
+        {
+          "topic": {
+            "id": "5e6736e94b0b59235a26ac2c",
+            "slug": "nodejs-info",
+            "title": "강의 안내",
+            "summary": "총 31개 수업으로 수강기한이 무제한 입니다! 영상과 수업노트가 제공되니 최상의 학습환경에서 nodejs를 학습할 수 있습니다:)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e345223b3aa703b8a9a4f35",
+      "code": "701",
+      "title": "[인프런] 자바 언어 기본 강좌",
+      "difficulty": 1,
+      "slug": "intro-to-java",
+      "summary": "프로그래밍 역사상 가장 꾸준한 인기 언어인 자바를 통해 앱 개발과 웹 개발의 핵심을 습득해 봐요.",
+      "language": "JAVA",
+      "photoUrl": "java",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb2e",
+            "slug": "java-info",
+            "title": "자바란 무엇인가요??",
+            "summary": "자바는 플랫폼에 독립적인 언어라는 특징을 가지고 있습니다. 자바컴파일러는 바이트코드인 클래스 파일을 생성합니다. 최근 안드로이드 쪽에서는 Koltin으로 코드를 교체하기도 합니다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb2f",
+            "slug": "java-oop",
+            "title": "어떤 강좌 인가요??",
+            "summary": "자바 언어 기본 강좌입니다. 자바 언어의 전체적인 내용부터 데이터타입, 문법, 클래스, 이벤트 처리 등을 다루면서 프로그래밍의 기초를 다질 수 있는 강의입니다."
+          }
+        },
+        {
+          "topic": {
+            "id": "5e345230d909cbb85ba2eb31",
+            "slug": "java-details",
+            "title": "추천 수강 대상 / 강의 세부 정보 안내",
+            "summary": "추천하는 수강 대상: C언어를 학습하고 자바 언어를 학습하고 싶은 분들, 또한 프로그래밍을 공부하고 싶은 분들께 추천합니다! // 강의 세부 내용안내: 무료로 제공되며 영상과 수업노트가 제공됩니다. // 안내 링크(https://www.inflearn.com/course/%EC%9E%90%EB%B0%94java-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8-%EA%B0%95%EC%A2%8C#curriculum)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f991185d15fc22b2259f646",
+      "code": "811",
+      "title": "[인프런] 컴알못이 보는 컴퓨터 하드웨어 기초상식",
+      "difficulty": 1,
+      "slug": "computer-basic",
+      "summary": "하드웨어에 대한 기초 배경지식과 컴퓨터를 구매하고자 하는 데 뭐가 뭔지 모르겠는 컴알못만을 위한 강의입니다!",
+      "language": "HARDWARE",
+      "photoUrl": "intro-to-computer",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5fb484501c8d503ae10090d3",
+            "slug": "com-info",
+            "title": "어떤 것을 배우게 되나요??",
+            "summary": "컴퓨터 하드웨어 구성요소, 컴퓨터 관련 기초 상식, 하드웨어 부품들의 용도, 컴퓨터 견적내는 방법, CPU&GPU 차이점, I3,5,7에 대한 차이점을 알 수 있습니다! "
+          }
+        },
+        {
+          "topic": {
+            "id": "5e672fdffa82385b572c4356",
+            "slug": "com-basic",
+            "title": "추천하는 수강 대상",
+            "summary": "하드웨어에 대한 배경 지식을 쌓고 싶은 사람, 컴퓨터를 구매하고자 한느데 어려움을 겪는 사람들에게 추천드립니다! // 상세 안내(https://www.inflearn.com/course/%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EA%B8%B0%EC%B4%88%EC%83%81%EC%8B%9D)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5f991641d15fc22b226c4622",
+      "code": "903",
+      "title": "[인프런] 스프링 입문 - 코딩으로 배우는 스프링 부트, DB 접근 기술",
+      "difficulty": 1,
+      "slug": "database",
+      "summary": "스프링 입문자가 예제를 만들어가면서 스프링 웹 애플리케이션 개발 전반을 빠르게 학습할 수 있습니다.",
+      "language": "SPRING",
+      "photoUrl": "sql",
+      "newReleased": false,
+      "topics": [
+        {
+          "topic": {
+            "id": "5e67409cfa82385b5769cbb5",
+            "slug": "database-info",
+            "title": "스프링을 왜 공부해야하고 어떻게 강의가 이루어지나요?",
+            "summary": "우리는 실무에서 제대로 동작하는 웹 애플리케이션을 개발하기 위해서 스프링을 학습해야합니다. 이 강의는 간단한 웹 애플리케이션부터 빠르게 개발하며 학습해봅니다. 실제 실무 개발에 꼭 필요한 스프링을 제대로 가르쳐 드립니다. // 세부 안내(https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) "
+          }
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "616825",
+      "title": "춘천에 초등학생이 코딩 배울 수 있는 곳 있나요??",
+      "content": "딸아이가 학교에서 핑퐁로봇 배우고 오더니 코딩에 흥미를 붙인것 같아서요.. 혹시 추천해주실만한 코딩 배울 수 있는 곳이 있을까요?",
+      "answers": [
+        {
+          "createdAt": "2022-12-10T16:34:20.477Z",
+          "updatedAt": "2021-12-10T16:34:20.477Z",
+          "content": "가끔씩 춘천 평생학습관에 아이들 대상으로 코딩교육 올라와요! 그런데 요즘은 인강으로도 코딩교육이 잘 나와있어서 강의사이트들 한번 보시는것도 괜찮을 것 같아요!",
+          "writer": {
+            "name": "이소융",
+            "profile": {
+              "photo": "https://image.cine21.com/resize/cine21/still/2017/1211/17_57_43__5a2e48875c7d6[X252,310].jpg"
+            },
+            "level": "LV.10"
+          }
+        }
+      ],
+      "createdAt": "2022-12-01T12:42:25.27Z",
+      "updatedAt": "2021-12-01T16:34:20.478Z",
+      "writer": {
+        "name": "김한림",
+        "profile": {
+          "photo": "https://img.seoul.co.kr/img/upload/2015/03/26/SSI_20150326144947_O2.jpg"
+        },
+        "level": "LV.1"
+      }
+    },
+    {
+      "id": "616933d8715928349b3a11b7",
+      "title": "정말 기초적인 자바스크립트 문법 질문인데 답변 부탁드립니다!",
+      "content": "const { sequelize} =require('./models'); 이 코드에서 저 sequelize에 있는 괄호는 무슨 문법인가요?",
+      "answers": [
+        {
+          "createdAt": "2022-12-03T08:26:45.875Z",
+          "updatedAt": "2021-12-03T08:26:45.875Z",
+          "content": "이런 문법을 구조 분해 할당이라고 해요. 객체의 속성을 분해해서 변수로 바로 할당하는 문법이라고 합니다. 예시로 써주신 코드에서 구조 분해할당을 사용하지 않는다면 const models = require('./models'); const sequelize = models.sequelize; 이렇게 씁니다.",
+          "writer": {
+            "name": "김자바",
+            "profile": {
+              "photo": "https://img.marieclairekorea.com/2019/05/mck_5ce6599b4f3c4.jpg"
+            },
+            "level": "LV.8"
+          }
+        }
+      ],
+      "like": null,
+      "likeCount": 0,
+      "totalLikeCount": 0,
+      "createdAt": "2022-11-30T07:55:04.808Z",
+      "updatedAt": "2022-11-30T08:26:45.88Z",
+      "writer": {
+        "name": "자바칩 프라푸치노",
+        "profile": {
+          "photo": "https://sitem.ssgcdn.com/84/61/98/item/1000344986184_i1_1200.jpg"
+        },
+        "level": "LV.2"
+      }
+    },
+    {
+      "id": "61690a",
+      "title": "리액트 질문입니다!",
+      "content": "리액트를 처음부터 배우고 싶은데 추천하시는 강좌가 있을까요?",
+      "answers": [],
+      "createdAt": "2022-11-29T04:57:48.152Z",
+      "updatedAt": "2022-11-29T04:57:48.467Z",
+      "writer": {
+        "name": "리액트초보",
+        "profile": {
+          "photo": "https://images.velog.io/images/kim-jaemin420/post/088bbdd3-3c5c-4520-b250-4e67da4e368b/%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B3.png"
+        },
+        "level": "LV.3"
+      }
+    },
+    {
+      "id": "616903",
+      "title": "웹 개발자 분야가 궁금해요 프론트엔드?백엔드?풀스택? 차이점이 궁금해요",
+      "status": "PUBLISHED",
+      "content": "웹에 관심이 있는 한림대 1학년 입니다. 찾아보니 프론트엔드, 백엔드, 풀스택이라는 단어랑 정확히 어떤 역할인지 궁금합니다.",
+      "answers": [],
+      "createdAt": "2022-11-15T04:28:53.677Z",
+      "updatedAt": "2022-11-15T05:54:27.711Z",
+      "writer": {
+        "name": "한림대 삐약이",
+        "profile": {
+          "photo": "https://post-phinf.pstatic.net/MjAyMTA1MjRfMzEg/MDAxNjIxODI0NzI5MjAz.xgweJ2A1OQQo2MaxWVuTlwvt4oTLRI_OaNByNI0GSqwg._okYII5dJOhfwNuaBsY2iuEaC9zunIJHOg855qunyZ4g.JPEG/%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%A7%91_%EC%9C%A0%EC%B9%98%EC%9B%90_%EB%B3%91%EC%95%84%EB%A6%AC_%EC%BA%90%EB%A6%AD%ED%84%B0_%EA%B7%B8%EB%A6%AC%EA%B8%B0_%2814%29.jpg?type=w1200"
+        },
+        "level": "LV.1"
+      }
+    },
+    {
+      "id": "6168fd",
+      "title": "리액트가 안돌아가네요ㅠㅠ 망했습니다....도와주세요",
+      "content": "최근에 노트북 바꿔서 기존의 잘 돌아가던 리엑트 파일이 npm install react-app . 하고 오류만 계속떠요ㅜㅜ node.js도 잘 깔았는데 왜 안되는건지 모르겠어요 에휴ㅠㅠ",
+      "answers": [
+        {
+          "createdAt": "2022-12-02T04:11:04.43Z",
+          "updatedAt": "2022-12-02T04:11:04.43Z",
+          "content": "기존의 쓰시던 노트북에서 node.js버전이랑 현재 컴퓨터에서 새로 다운로드 받으시는 node.js 버전이 안맞아서 그럴 수도 있어요! nvm써서 node.js 버전을 낮추시면 됩니다!",
+          "writer": {
+            "name": "Node.js 만렙",
+            "profile": {
+              "photo": "https://images.velog.io/images/deannn/post/d2a40b7c-eed3-4282-ab5a-8106618f83ba/Node.js.png"
+            },
+            "level": "LV.9"
+          }
+        }
+      ],
+      "createdAt": "2022-11-12T04:03:36.549Z",
+      "updatedAt": "2022-11-12T04:11:04.432Z",
+      "writer": {
+        "name": "코딩초보",
+        "profile": {
+          "photo": "https://photo.jtbc.co.kr/news/jam_photo/202112/30/ac963887-1bd3-4169-b98a-ab59f5bcc777.jpg"
+        },
+        "level": "LV.2"
+      }
+    },
+    {
+      "id": "6168df",
+      "title": "몽고디비의 장단점이 뭔가요??",
+      "content": "오늘 학교에서 몽고디비를 배웠는데 좋아보여서요! 혹시 사용해보신 분들 중 다른 것에 비해 몽고디비의 장점과 단점을 알 수 있을까요??",
+      "answers": [],
+      "createdAt": "2022-11-01T01:56:19.018Z",
+      "updatedAt": "2022-11-01T08:28:42.989Z",
+      "writer": {
+        "name": "한림대 3학년",
+        "profile": {
+          "photo": "https://gologo.kr/wp-content/uploads/2022/01/%EB%A1%9C%EA%B3%A0-%ED%95%9C%EB%A6%BC%EB%8C%80.jpg"
+        },
+        "level": "LV.6"
+      }
+    },
+    {
+      "id": "6168c5",
+      "title": "한림대학교 소프트웨어학부 좋나요?? 재학생들의 의견이 궁금합니다",
+      "content": "안녕하세요, 한림대학교 소프트웨어학부에 원서넣은 고3학생입니다. 주변에 재학생이 없어서 이렇게 올리게 되었어요 재학생분들 계신다면 학교 자랑 좀 해주세요!",
+      "answers": [
+        {
+          "createdAt": "2022-09-15T04:12:21.523Z",
+          "updatedAt": "2022-09-15T04:12:21.523Z",
+          "content": "안녕하세요 한림대 소프트웨어학부 3학년 재학생이예요! 저는 학교에 완전 만족해요! 소프트웨어중심대학에 선정되어서 지원도 빵빵하고 학생들을 위한 지원도 아낌없어요! 한림대학교가 작아서 저도 입학할땐 걱정을 많이 했는데 정말 작지만 매우 강한 대학이예요!! 최고최고 후배님으로 뵙기를 바랄게요!",
+          "writer": {
+            "name": "더존예비개발자",
+            "profile": {
+              "photo": "https://s3.ap-northeast-2.amazonaws.com/tv.wehago.com/prod/DCloudStorageServer/images/company_9/2020/10/07/fd026f60-083b-11eb-8aa5-718c26ead452.png"
+            },
+            "level": "LV.9"
+          }
+        }
+      ],
+      "createdAt": "2022-09-10T00:04:21.247Z",
+      "updatedAt": "2022-09-10T04:12:21.525Z",
+      "writer": {
+        "name": "춘천고삼이",
+        "profile": {
+          "photo": "https://i.pinimg.com/736x/a0/f3/da/a0f3da3b8b67eddf9337d592670fd370.jpg"
+        },
+        "level": "LV.1"
+      }
+    },
+    {
+      "id": "616861",
+      "title": "터미널 오류",
+      "content": "ENOENT: no such file or directory 라는 오류가 나요",
+      "answers": [
+        {
+          "createdAt": "2022-10-22T04:32:30.64Z",
+          "updatedAt": "2022-10-22T04:32:30.64Z",
+          "content": "혹시 올바른 폴더에서 npm start를 하신 건지 확인해보세요!!",
+          "writer": {
+            "name": "리눅스마스터",
+            "profile": {
+              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgxkcnRJOMELDDOfLQ10eLnSHY9928Ao5ItZht7FUHYd-SXMQn5uF1vxfAcemp9kR-gQ&usqp=CAU"
+            },
+            "level": "LV.10"
+          }
+        }
+      ],
+      "createdAt": "2022-09-01T16:55:46.394Z",
+      "updatedAt": "2022-09-01T06:47:48.12Z",
+      "writer": {
+        "name": "오류와함께하는자",
+        "profile": {
+          "photo": "https://t1.daumcdn.net/cfile/tistory/2240FC385624C8EF34"
+        },
+        "level": "LV.2"
+      }
+    }
+  ]
+}

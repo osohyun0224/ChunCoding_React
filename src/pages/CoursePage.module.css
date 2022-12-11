@@ -1,0 +1,53 @@
+.header {
+  background-color: #fff;
+  border-top: 10px solid #000;
+}
+
+.header .content {
+  padding: 65px 10px 20px;
+  text-align: center;
+}
+
+.header .title {
+  margin: 10px auto 20px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #545454;
+  text-align: center;
+}
+
+.header .summary {
+  padding: 11px 68px;
+  margin: 20px 0 0;
+  font-size: 12px;
+  color: #00080d;
+  background-color: #ebaaf6;
+  border: solid 2px #0e0f0e;
+  border-radius: 5px;
+}
+
+.topics {
+  margin: 30px auto 100px;
+}
+
+.topic {
+  padding: 28px 50px;
+}
+
+.topic:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.topic .title {
+  margin: 0 auto 10px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #050000;
+}
+
+.topic .summary {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+  color: #2f40fd;
+}
